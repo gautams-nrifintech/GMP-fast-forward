@@ -1,3 +1,6 @@
 momos
 chicken 65
 fish chilly
+lassi
+coffee
+tea
